@@ -26,3 +26,5 @@ I would like to look more closely at differences in genetic background in my dat
 **What other techniques would you be interested in using in your project?**
 
 I would like to try linkage disequilibrium analysis to see whether nearby SNPs are giving us repeated evidence of the same signal. This could help me understand how many separate association signals my results represent.
+
+I do think that my domain is on track so far, but I still need to talk and find my gorups for quarter 2. We haven't talk about quarter 2's plans yet.

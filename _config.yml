@@ -1,9 +1,1 @@
-title: DSC 180A — Methodology Assignment 4
-description: Quarter 2 project brainstorming
 theme: jekyll-theme-cayman
-markdown: kramdown
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor

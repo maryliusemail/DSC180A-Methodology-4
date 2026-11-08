@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Quarter 2 Project Brainstorming
+title: Brainstorming
 ---
 
-# Quarter 2 Project Brainstorming
+# Brainstorming
 
 **Name:** Ziyan Liu  
 **UCSD email:** [zil117@ucsd.edu](mailto:zil117@ucsd.edu)  

@@ -12,17 +12,17 @@ title: Brainstorming
 
 **What is the most interesting topic covered in your domain this quarter?**
 
-I think the most interesting thing to me so far is how DNA is related to gene expression. I think its interesting how much impact is possible from one single base mutation. 
+I think the most interesting topic so far is how DNA is related to gene expression. It's interesting how a change in a single DNA base can potentially have a large impact. I want to understand how such a small change can relate to differences in how active a gene is.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-I haven't really thought about this, but I might look into more relationships between how SNP relate to the function of the gene and how different genes are affected differently by SNPs
+One idea I'm interested in is looking at whether genes with similar biological functions show similar relationships between SNPs and gene expression. I could use the data from my current project and group genes by their functions to compare their association patterns.
 
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-I would like to try to account for difference in genetic background in my data. I could try to see if even people from the same continent are affected differently by SNP, not just places in that are on opposite sides of the world
+I would like to look more closely at differences in genetic background in my data. Instead of combining all the European samples, I could compare the European population groups separately to see whether combining them hides differences in SNP–gene expression associations. I would also need to keep in mind that smaller groups make it harder to detect associations.
 
 **What other techniques would you be interested in using in your project?**
 
-I would like to try linkage disequilibrium analysis to see whether nearby SNPs are giving us repeated evidence of the same signal, and see if my results are really significant. 
+I would like to try linkage disequilibrium analysis to see whether nearby SNPs are giving us repeated evidence of the same signal. This could help me understand how many separate association signals my results represent.
